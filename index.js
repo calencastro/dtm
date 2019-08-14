@@ -1,4 +1,4 @@
-class dtm{
+class dtm{ 
 
   convert(time = Date.now()){
     if(typeof time == 'number'){
@@ -254,5 +254,6 @@ formatZeroFill(a){
 
 
 }
+
 
 module.exports = new dtm;

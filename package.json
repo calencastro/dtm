@@ -1,6 +1,6 @@
 {
   "name": "@hangar55/dtm",
-  "version": "1.3.3",
+  "version": "1.3.4",
   "description": "An NPM package to handle date and time Converts between ms epoch time and human date; Adds/Remove seconds, minutes, hours or days to a given date; Checks if a given date is between an interval, before or after a given date",
   "main": "index.js",
   "scripts": {
@@ -13,4 +13,3 @@
   "author": "Hangar55",
   "license": "MIT"
 }
-

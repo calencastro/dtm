@@ -58,4 +58,3 @@ console.log(dtm.isBefore("28-02-1934 23:59:59", "01-01-1945 00:00:01"));
 [travis-url]: https://travis-ci.org/live-js/@hangar55/dtm
 [coveralls-image]: https://img.shields.io/coveralls/live-js/@hangar55/dtm
 [coveralls-url]: https://coveralls.io/r/live-js/@hangar55/dtm?branch=master
-

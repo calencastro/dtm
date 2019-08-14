@@ -7,7 +7,7 @@
 
 
 [![NPM Version][npm-image]][npm-url]
-[![Test Coverage][coveralls-image]][coveralls-url]
+[![Coverage Status][coveralls-image]][coveralls-url]
 
 ## Install
 
@@ -56,5 +56,5 @@ console.log(dtm.isBefore("28-02-1934 23:59:59", "01-01-1945 00:00:01"));
 [npm-url]: https://www.npmjs.com/package/@hangar55/dtm
 [travis-image]: https://img.shields.io/travis/live-js/@hangar55/dtm
 [travis-url]: https://travis-ci.org/live-js/@hangar55/dtm
-[coveralls-image]: https://img.shields.io/coveralls/live-js/@hangar55/dtm
-[coveralls-url]: https://coveralls.io/r/live-js/@hangar55/dtm?branch=master
+[coveralls-image]: https://coveralls.io/repos/github/calencastro/dtm/badge.svg?branch=master
+[coveralls-url]: https://coveralls.io/github/calencastro/dtm?branch=master
